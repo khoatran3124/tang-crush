@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `Đừng buồn quá nha ;_;
     Mai đi học còn gặp mình nè
     Đồ ăn nè ;_;
-    Mình tính chơi đàn nhma hư òi ;-;`,
-    btnIntro: 'hihi',
+    `,
+    btnIntro: 'hmuhmu ;-;',
     title: 'Ngày mai đi học chill chill để t dỗ nha 🥹',
     desc: 'Hứa nha bạn ơi 😭 ',
     btnYes: 'Ừa :>',
